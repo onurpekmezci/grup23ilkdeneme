@@ -1,0 +1,3 @@
+public enum persons {
+    SAFAK,ONUR,SEMIH,OGUZHAN,MEHMET,HELIN,NICAT,HUSEYIN,TAHA
+}
