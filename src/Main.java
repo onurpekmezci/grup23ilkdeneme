@@ -16,6 +16,7 @@ public class Main {
 
         System.out.println("Safak deneme1 " );
         System.out.println("Oguzhan Yeni Degisiklik");
+        System.out.println("nicat degisiklik yapti");
 
 
     }
