@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Grup23 ilk çalışma");
-        System.out.println("grup23 son çalışma" );
+        System.out.println("Safak deneme1 " );
     }
 }
