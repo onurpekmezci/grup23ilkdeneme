@@ -7,9 +7,15 @@ public class Main {
         System.out.println("Grup23 ilk çalışma");
 
 
+        System.out.println("Grup23 yeni çalışma");
+
+        System.out.println("Grup23 ikinci yeni çalışma");
+
+
         System.out.println("OguzhanDegisiklik");
 
         System.out.println("Safak deneme1 " );
+
 
     }
 }
