@@ -5,6 +5,6 @@ public class Main {
     {
         System.out.println("Grup23 ilk çalışma");
 
-        System.out.println("Grup23 ikinci çalışma");
+        System.out.println("Grup23 yeni çalışma");
     }
 }
